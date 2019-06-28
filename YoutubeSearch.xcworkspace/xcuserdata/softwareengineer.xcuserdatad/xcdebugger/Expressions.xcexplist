@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MusicLibraryController viewWillAppear:]:MusicLibraryController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((AppDelegate *)[[UIApplication sharedApplication] delegate]).internetReachability.currentReachabilityStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
